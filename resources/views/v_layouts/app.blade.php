@@ -45,7 +45,7 @@
         <div id="top-header">
             <div class="container">
                 <div class="pull-left">
-                    <span>Selamat datang di toko online</span>
+                    <span>Selamat datang di penyewaan apartemen </span>
                 </div>
             </div>
         </div>
